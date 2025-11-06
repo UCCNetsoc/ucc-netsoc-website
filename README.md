@@ -2,6 +2,8 @@
 
 This is the new website for [University College Cork](https://ucc.ie)'s [Networking, Technology, and Gaming Society](https://netsoc.co), redesigned in 2025 by [El Egan Morley](https://yakowa.com).
 
+Moved from [yakowa/ucc-netsoc-website]([url](https://github.com/yakowa/ucc-netsoc-website)) on 2025-11-06, will continue to be maintained here :)
+
 ![License: CC BY-SA 4.0](https://img.shields.io/badge/Created-2025-ffee00)
 ![License: CC BY-SA 4.0](https://img.shields.io/badge/Last_Updated-2025-66ff00)
 
